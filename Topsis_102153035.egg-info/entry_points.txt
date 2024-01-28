@@ -1,0 +1,2 @@
+[console_scripts]
+Topsis_102153035 = Topsis_102153035._main_:main
